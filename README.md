@@ -1,6 +1,6 @@
 # Veteriner_Takip_Otomasyonu
 Bu proje Görsel Programlama proje ödevim için yapmış olduğum Vetpet adında bir Veteriner Otomasyonu projesidir. Proje Temel Veteriner işlemleri, Satın Alma , Ürün Ekleme ve Ürün Güncelleme, Randevu Oluşturma , Randevu Silme , Aşı takvimi , Sepet, Faturalar , Ürün Stok Takibi ve güncelleme gibi çoklu özelliklerden oluşmaktadır. Bunların yanında üyelerin ve adminlerin kontrolleri için ayrı işlemler bulundurmaktadır. Adminler üyeleri ve veteriner işlemlerini yönetmektedir, kullanıcılar ise hayvan kontrollerini yapabilmektedir
-Market Özellikleri
+#Market Özellikleri
 Tüm Market: Ürünleri ve fiyatları kategorizelendirebildiğiniz, tüm ürünlerin bulunduğu bir sekmedir.
 BuyBox: Ürünleri kategorilere göre listeleyebileceğiniz ve aynı ürünlerin daha ucuz fiyatları olduğu durumlarda otomatik olarak sepete ekleyebileceğiniz bir alandır.
 Ürün Ekle/Güncelle: Kullanıcılar burada ürünlerini satışa sunabilir veya var olan ürünlerini güncelleyebilir. (Not: Ürünler listeye eklendikten sonra yönetici tarafından onay gerekmektedir. Eğer bir başka kullanıcı ürünü satın alırsa, satan kişiye otomatik olarak para gider.)
