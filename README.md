@@ -33,3 +33,5 @@ Bu proje Görsel Programlama proje ödevim için yapmış olduğum Vetpet adınd
 
 - **Anasayfa:**  
   Tüm özelliklere ve sayfalara erişim sağlayan ana paneldir. Kullanıcılar, ilgili sekmeleri kullanarak işlemlerini buradan gerçekleştirebilir.
+
+  https://github.com/user-attachments/assets/e0074967-6a62-43e2-a188-4c7b1a0b9cce
