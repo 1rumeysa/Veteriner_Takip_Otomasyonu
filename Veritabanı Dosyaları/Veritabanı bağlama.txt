@@ -4,5 +4,5 @@ HEM SCRİPT HEMDE BAK DOSYASI VAR.
 UYGULAMA GİRİŞİ İÇİN DE 
 Admin/Yönetici olarak: 
 email=admin@gmail.com
-şifre:=admin1
+şifre:=Admin
 normal müşteri için de kayıt oluşturabilirsiniz direkt.
